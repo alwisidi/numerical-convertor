@@ -1,2 +1,2 @@
-# numerical-convertor
+# Numerical Convertor
 Numerical System Convertor written in multiple programming languages 😁
